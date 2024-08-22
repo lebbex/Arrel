@@ -1,4 +1,5 @@
 {
 	"LauncherVersion": "v1",
-	"HomeBanner": "Banner"
+	"HomeBanner": "Banner",
+	"VersionCategories": 4
 }
