@@ -1,8 +1,12 @@
 {
-	"LatestVersion": "indev-22",
-	"Categories": [
+	"SgLatestVersion": "indev-22",
+	"SgCategories": [
 		"Late-Dev",
 		"Early-Dev",
 		"Pre-Dev"
+	]
+	"VrLatestVersion": "",
+	"VrCategories": [
+		""
 	]
 }
