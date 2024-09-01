@@ -1,6 +1,27 @@
 {
-        "Languages":
-                {
-                        
-                }
+	"Languages":
+	{
+		"English":
+		{
+                        "Development": "Development",
+                        "Dev": "Dev",
+			"Pre-Dev": "Pre-Development",
+			"Early-Dev": "Early Development",
+			"Late-Dev": "Early Development",
+                        "Alpha": "Alpha",
+                        "Beta": "Beta",
+                        "Release": "Release"
+		},
+		"French":
+		{
+                        "Development": "Développement",
+                        "Dev": "Dév",
+                        "Pre-Dev": "Pré-Développement",
+			"Early-Dev": "Premier Développement",
+                        "Late-Dev": "Second Développement"
+                        "Alpha": "Alpha",
+                        "Beta": "Bêta",
+                        "Release": "Sortie"
+		}
+	}
 }
