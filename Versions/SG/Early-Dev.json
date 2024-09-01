@@ -1,9 +1,5 @@
 {
-	"category": {
-		"English": "Early Development",
-		"French": "Développement Initial"
-	},
-	"versions": [
+	"Versions": [
 		{
 			"name": "indev-22",
 			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
