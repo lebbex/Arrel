@@ -1,3 +1,7 @@
 {
-
+	"Dev": [
+		"Pre-Dev",
+		"Early-Dev",
+                "Late-Dev"
+	]
 }
