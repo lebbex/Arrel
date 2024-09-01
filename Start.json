@@ -1,3 +1,11 @@
 {
 	"HomeBanner": "Banners/Banner.png",
+	
+	"SG": {
+		"Dev": [
+			"Pre-Dev",
+			"Early-Dev",
+                	"Late-Dev"
+		]
+	}
 }
