@@ -3,7 +3,6 @@
 	{
 		"English":
 		{
-                        "Development": "Development",
                         "Dev": "Dev",
 			"Pre-Dev": "Pre-Development",
 			"Early-Dev": "Early Development",
@@ -14,7 +13,6 @@
 		},
 		"French":
 		{
-                        "Development": "Développement",
                         "Dev": "Dév",
                         "Pre-Dev": "Pré-Développement",
 			"Early-Dev": "Premier Développement",
