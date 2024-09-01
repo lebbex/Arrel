@@ -1,11 +1,11 @@
 {
-    "Versions":[
-        "name": "indev-22",
-	    {
+    "Versions": [
+		{
+        "name": "",
 		"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
-		"folderSize": "1.20 GB",
-		"zipBytes": 1055486628,
+		"folderSize": "0GB",
+		"zipBytes": 0,
 		"link": ""
-	    }
+		}
     ]
 }
