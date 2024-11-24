@@ -1,16 +1,11 @@
 {
     "LAUNCHER": {
-        "Version": "v0.10",
-        "Updates":  0
+        "Version": "v0.17",
+        "Updates":  6
     },
 
     "SG": {
         "Version": "indev-22",
-        "Updates":  0
-    },
-
-    "VR": {
-        "Version": "",
         "Updates":  0
     }
 }
