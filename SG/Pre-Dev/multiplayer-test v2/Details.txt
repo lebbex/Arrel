@@ -1,1 +1,2 @@
-The multiplayer test was the first test we made for the game. It only worked to connect to another game running on your own computer, which isn't very useful, but it was a start.
+The multiplayer test was the first test we made for the game. It only worked to connect to another game running on your own computer, which isn't very useful, but it was a start. This test introduced the short life of the purple bean man, who was removed in the next update and reintroduced later on as an easter agg for you to find.
+This test is completely disconected from the main Arrel project, still in the Unity game engine however.
