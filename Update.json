@@ -1,10 +1,7 @@
 {
     "Banner": "snowySGview.png",
     
-    "Launcher": {
-        "Version": "v0.17",
-        "Updates":  0
-    },
+    "Launcher": 0,
     
     "SG": 0
 }
