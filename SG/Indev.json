@@ -3,156 +3,112 @@
 		{
 			"name": "indev-22",
 			"release": {"year": 2024, "month": 8, "day": 17, "hour": 2, "min": 35 },
-			"folderSize": "1.20 GB",
-			"zipBytes": 1055486628,
-			"link": "https://www.dropbox.com/scl/fi/y4usqikuhf93unc2ayn7i/indev-22.zip?rlkey=muixdtho2ollvhnzh6x8dpnnc&st=ow73ufqr&dl=1"
+			"size": "1.20 GB"
 		},
 		{
 			"name": "indev-21",
 			"release": {"year": 2024, "month": 7, "day": 27, "hour": 1, "min": 25 },
-			"folderSize": "1.12 GB",
-			"zipBytes": 968958496,
-			"link": "https://www.dropbox.com/scl/fi/wscv2i2telsv1ngmohr9p/indev-21.zip?rlkey=4qpjcn3y1uv2cpa71hdkux9nn&st=r6yjaw5i&dl=1"
+			"size": "1.12 GB"
 		},
 		{
 			"name": "indev-20",
 			"release": {"year": 2024, "month": 7, "day": 23, "hour": 10, "min": 47 },
-			"folderSize": "1.12 GB",
-			"zipBytes": 965895593,
-			"link": "https://www.dropbox.com/scl/fi/14qswkx8o3ofxej8kq72y/indev-20.zip?rlkey=wdlxy4p9sbduesx82qb7v5wmp&st=de1uunhn&dl=1"
+			"size": "1.12 GB"
 		},
 		{
 			"name": "indev-19",
 			"release": {"year": 2024, "month": 6, "day": 26, "hour": 15, "min": 49 },
-			"folderSize": "1.07 GB",
-			"zipBytes": 856061137,
-			"link": "https://www.dropbox.com/scl/fi/m37lv58ldudaehr7ztxdr/indev-19.zip?rlkey=ixji3pauqvqxw9a01qal6l5d0&st=cigxcekq&dl=1"
+			"size": "1.07 GB"
 		},
 		{
 			"name": "indev-18",
 			"release": {"year": 2024, "month": 6, "day": 20, "hour": 18, "min": 29 },
-			"folderSize": "1.06 GB",
-			"zipBytes": 851069262,
-			"link": "https://www.dropbox.com/scl/fi/fgfq0uc0o4to0bpwjfu7u/indev-18.zip?rlkey=39fczvkrhlhswalw51pbuzwia&st=dganx0zy&dl=1"
+			"size": "1.06 GB"
 		},
 		{
 			"name": "indev-17",
 			"release": {"year": 2024, "month": 6, "day": 19, "hour": 21, "min": 26 },
-			"folderSize": "1.02 GB",
-			"zipBytes": 855620166,
-			"link": "https://www.dropbox.com/scl/fi/mni1r6op2ytfj19fb73nk/indev-17.zip?rlkey=08xqwuopr7xmzmhjynug8w9l9&st=45hcuh22&dl=1"
+			"size": "1.02 GB"
 		},
 		{
 			"name": "indev-16",
 			"release": {"year": 2024, "month": 6, "day": 19, "hour": 18, "min": 33 },
-			"folderSize": "1.02 GB",
-			"zipBytes": 855627340,
-			"link": "https://www.dropbox.com/scl/fi/9udqoj5m2941vn892xeis/indev-16.zip?rlkey=6qyi0tihfc8y6si469vooteze&st=h90oh72n&dl=1"
+			"size": "1.02 GB"
 		},
 		{
 			"name": "indev-15",
 			"release": {"year": 2024, "month": 6, "day": 17, "hour": 12, "min": 57 },
-			"folderSize": "1.02 GB",
-			"zipBytes": 855627043,
-			"link": "https://www.dropbox.com/scl/fi/9ezcs3p7lsmpcxhmlu1bw/indev-15.zip?rlkey=46uy1hf8pcl4b2czdshrsn8qa&st=bfpp6ptn&dl=1"
+			"size": "1.02 GB"
 		},
 		{
 			"name": "indev-14",
 			"release": {"year": 2024, "month": 6, "day": 10, "hour": 20, "min": 15 },
-			"folderSize": "1.02 GB",
-			"zipBytes": 855610544,
-			"link": "https://www.dropbox.com/scl/fi/iyexfz9j1pa9i70ry7xdh/indev-14.zip?rlkey=mnp0qmxwj44qmepmnrmx8rb7v&st=juta0j13&dl=1"
+			"size": "1.02 GB"
 		},
 		{
 			"name": "indev-13",
 			"release": {"year": 2024, "month": 5, "day": 20, "hour": 18, "min": 6 },
-			"folderSize": "823 MB",
-			"zipBytes": 746050164,
-			"link": "https://www.dropbox.com/scl/fi/mp9lf0hx27mq5r5utl4tm/indev-13.zip?rlkey=pi84plwrx9n956fp4k8lc9fg9&st=fn5uq49c&dl=1"
+			"size": "823 MB"
 		},
 		{
 			"name": "indev-12",
 			"release": {"year": 2024, "month": 5, "day": 20, "hour": 17, "min": 4 },
-			"folderSize": "822 MB",
-			"zipBytes": 746054496,
-			"link": "https://www.dropbox.com/scl/fi/zhncquftibtfiqs82qntw/indev-12.zip?rlkey=cdh8flmdsvd9z3tn9gqsz8bu7&st=nnfuyi9u&dl=1"
+			"size": "822 MB"
 		},
 		{
 			"name": "indev-11",
 			"release": {"year": 2024, "month": 5, "day": 18, "hour": 14, "min": 12 },
-			"folderSize": "803 MB",
-			"zipBytes": 737414232,
-			"link": "https://www.dropbox.com/scl/fi/mnrwfpqwqay7enottojch/indev-11.zip?rlkey=cclzzcn98xn1b6l7sy70mdddm&st=c0orbfw9&dl=1"
+			"size": "803 MB"
 		},
 		{
 			"name": "indev-10",
 			"release": {"year": 2024, "month": 4, "day": 21, "hour": 15, "min": 11 },
-			"folderSize": "764 MB",
-			"zipBytes": 696452248,
-			"link": "https://www.dropbox.com/scl/fi/8wkxp4hvtdp4ks5a8sx4i/indev-10.zip?rlkey=80wqd2kn52dwqia2qcf3t1v94&st=4mgj069e&dl=1"
+			"size": "764 MB"
 		},
 		{
 			"name": "indev-9",
 			"release": {"year": 2024, "month": 2, "day": 16, "hour": 8, "min": 29 },
-			"folderSize": "795 MB",
-			"zipBytes": 729282202,
-			"link": "https://www.dropbox.com/scl/fi/al26fdmf9e6b8quxnv1o0/indev-9.zip?rlkey=x4axt5t98gdq8yp0esqlau4f3&st=0wfayyfh&dl=1"
+			"size": "795 MB"
 		},
 		{
 			"name": "indev-8",
 			"release": {"year": 2024, "month": 1, "day": 5, "hour": 20, "min": 56 },
-			"folderSize": "788 MB",
-			"zipBytes": 722068320,
-			"link": "https://www.dropbox.com/scl/fi/4d7z8ijuqkd5zndv2dcuy/indev-8.zip?rlkey=p3aldolyzbhwikjtw2j4nrlfw&st=mnmmezvq&dl=1"
+			"size": "788 MB"
 		},
 		{
 			"name": "indev-7",
 			"release": {"year": 2023, "month": 11, "day": 21, "hour": 14, "min": 3 },
-			"folderSize": "628 MB",
-			"zipBytes": 554963855,
-			"link": "https://www.dropbox.com/scl/fi/93qlitdvd6bivfsg0a2ah/indev-7.zip?rlkey=0pp418grter2drk1w9d1q39nh&st=4wkwfr3g&dl=1"
+			"size": "628 MB"
 		},
 		{
 			"name": "indev-6",
 			"release": {"year": 2023, "month": 8, "day": 17, "hour": 22, "min": 31 },
-			"folderSize": "508 MB",
-			"zipBytes": 433132076,
-			"link": "https://www.dropbox.com/scl/fi/162j0f9aqmopkcl31qseh/indev-6.zip?rlkey=vcurkqeosusyocixb0qcql7qa&st=mwx7tvx4&dl=1"
+			"size": "508 MB"
 		},
 		{
 			"name": "indev-5",
 			"release": {"year": 2023, "month": 8, "day": 8, "hour": 19, "min": 20 },
-			"folderSize": "500 MB",
-			"zipBytes": 424878715,
-			"link": "https://www.dropbox.com/scl/fi/p3e51gmnmknptsvfow5cj/indev-5.zip?rlkey=xp1g7q9on5ef8pdte96fc3782&st=hshvdc6p&dl=1"
+			"size": "500 MB"
 		},
 		{
 			"name": "indev-4",
 			"release": {"year": 2023, "month": 5, "day": 8, "hour": 18, "min": 54 },
-			"folderSize": "492 MB",
-			"zipBytes": 416805394,
-			"link": "https://www.dropbox.com/scl/fi/o38ymj90gseqfrnvndlwm/indev-4.zip?rlkey=kwgocfbksgret1m5ud26vh579&st=96xkfpua&dl=1"
+			"size": "492 MB"
 		},
 		{
 			"name": "indev-3",
 			"release": {"year": 2023, "month": 2, "day": 11, "hour": 17, "min": 34 },
-			"folderSize": "488 MB",
-			"zipBytes": 412446395,
-			"link": "https://www.dropbox.com/scl/fi/bfubal1tkovevvawhzw0p/indev-3.zip?rlkey=o46rv59nyo0cr6jh9l5q0r1lc&st=1nteqqjq&dl=1"
+			"size": "488 MB"
 		},
 		{
 			"name": "indev-2",
 			"release": {"year": 2023, "month": 1, "day": 4, "hour": 17, "min": 14 },
-			"folderSize": "458 MB",
-			"zipBytes": 383500868,
-			"link": "https://www.dropbox.com/scl/fi/830bckzkwks2umwxwj9ed/indev-2.zip?rlkey=1pd7rj7o56cl2u835opdwh574&st=850l70wa&dl=1"
+			"size": "458 MB"
 		},
 		{
 			"name": "indev-1",
 			"release": {"year": 2022, "month": 12, "day": 26, "hour": 15, "min": 23 },
-			"folderSize": "344 MB",
-			"zipBytes": 265709301,
-			"link": "https://www.dropbox.com/scl/fi/tlp0agsm5nhygmsdfjcn8/indev-1.zip?rlkey=xlb6tonr2ml3gybmjdu4q5m04&st=jaqxefau&dl=1"
+			"size": "344 MB"
 		}
 	]
 }
