@@ -1,1 +1,1 @@
-
+The multiplayer test was the first test we made for the game. It only worked to connect to another game running on your own computer, which isn't very useful, but it was a start.
