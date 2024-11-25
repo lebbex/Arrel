@@ -1,5 +1,7 @@
 {
     "Banner": "snowySGview.png",
-    "Launcher": 0,
-    "SG": 0
+    "Latest": [
+        "Launcher": "0.17",
+		"SG": "indev-22"
+	]
 }
