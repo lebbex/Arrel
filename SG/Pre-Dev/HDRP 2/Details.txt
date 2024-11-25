@@ -1,1 +1,1 @@
-This version introduced chunk generation, however they were represented by floating cubes.
+This version introduced chunk generation, represented by floating cubes.
