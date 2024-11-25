@@ -1,7 +1,7 @@
 {
-    "Banner": "snowySGview.png",
-    "Latest": [
-        	"Launcher": "0.17",
+	"Banner": "snowySGview.png",
+	"Latest": [
+		"Launcher": "0.17",
 		"SG": "indev-22"
 	]
 }
