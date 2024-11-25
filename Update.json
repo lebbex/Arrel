@@ -1,7 +1,11 @@
 {
-	"Banner": "snowySGview.png",
-	"Latest": [
+	"Home": {
+		"Banner": "snowywideview.png or sum"
+		"Greeting": "",
+		"Status": ""
+	"Latest": {
 		"Launcher": "0.17",
-		"SG": "indev-22"
-	]
+		"SG": "indev-22",
+		"VR": ""
+	}
 }
