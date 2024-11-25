@@ -1,0 +1,1 @@
+This version transfered Arrel SG to Unity HDRP, introduced a slight UI redisign as well.

@@ -1,0 +1,114 @@
+{
+	"Versions": [
+		{
+			"name": "indev-22",
+			"release": {"year": 2024, "month": 8, "day": 17, "hour": 2, "min": 35 },
+			"size": "1.20 GB"
+		},
+		{
+			"name": "indev-21",
+			"release": {"year": 2024, "month": 7, "day": 27, "hour": 1, "min": 25 },
+			"size": "1.12 GB"
+		},
+		{
+			"name": "indev-20",
+			"release": {"year": 2024, "month": 7, "day": 23, "hour": 10, "min": 47 },
+			"size": "1.12 GB"
+		},
+		{
+			"name": "indev-19",
+			"release": {"year": 2024, "month": 6, "day": 26, "hour": 15, "min": 49 },
+			"size": "1.07 GB"
+		},
+		{
+			"name": "indev-18",
+			"release": {"year": 2024, "month": 6, "day": 20, "hour": 18, "min": 29 },
+			"size": "1.06 GB"
+		},
+		{
+			"name": "indev-17",
+			"release": {"year": 2024, "month": 6, "day": 19, "hour": 21, "min": 26 },
+			"size": "1.02 GB"
+		},
+		{
+			"name": "indev-16",
+			"release": {"year": 2024, "month": 6, "day": 19, "hour": 18, "min": 33 },
+			"size": "1.02 GB"
+		},
+		{
+			"name": "indev-15",
+			"release": {"year": 2024, "month": 6, "day": 17, "hour": 12, "min": 57 },
+			"size": "1.02 GB"
+		},
+		{
+			"name": "indev-14",
+			"release": {"year": 2024, "month": 6, "day": 10, "hour": 20, "min": 15 },
+			"size": "1.02 GB"
+		},
+		{
+			"name": "indev-13",
+			"release": {"year": 2024, "month": 5, "day": 20, "hour": 18, "min": 6 },
+			"size": "823 MB"
+		},
+		{
+			"name": "indev-12",
+			"release": {"year": 2024, "month": 5, "day": 20, "hour": 17, "min": 4 },
+			"size": "822 MB"
+		},
+		{
+			"name": "indev-11",
+			"release": {"year": 2024, "month": 5, "day": 18, "hour": 14, "min": 12 },
+			"size": "803 MB"
+		},
+		{
+			"name": "indev-10",
+			"release": {"year": 2024, "month": 4, "day": 21, "hour": 15, "min": 11 },
+			"size": "764 MB"
+		},
+		{
+			"name": "indev-9",
+			"release": {"year": 2024, "month": 2, "day": 16, "hour": 8, "min": 29 },
+			"size": "795 MB"
+		},
+		{
+			"name": "indev-8",
+			"release": {"year": 2024, "month": 1, "day": 5, "hour": 20, "min": 56 },
+			"size": "788 MB"
+		},
+		{
+			"name": "indev-7",
+			"release": {"year": 2023, "month": 11, "day": 21, "hour": 14, "min": 3 },
+			"size": "628 MB"
+		},
+		{
+			"name": "indev-6",
+			"release": {"year": 2023, "month": 8, "day": 17, "hour": 22, "min": 31 },
+			"size": "508 MB"
+		},
+		{
+			"name": "indev-5",
+			"release": {"year": 2023, "month": 8, "day": 8, "hour": 19, "min": 20 },
+			"size": "500 MB"
+		},
+		{
+			"name": "indev-4",
+			"release": {"year": 2023, "month": 5, "day": 8, "hour": 18, "min": 54 },
+			"size": "492 MB"
+		},
+		{
+			"name": "indev-3",
+			"release": {"year": 2023, "month": 2, "day": 11, "hour": 17, "min": 34 },
+			"size": "488 MB"
+		},
+		{
+			"name": "indev-2",
+			"release": {"year": 2023, "month": 1, "day": 4, "hour": 17, "min": 14 },
+			"size": "458 MB"
+		},
+		{
+			"name": "indev-1",
+			"release": {"year": 2022, "month": 12, "day": 26, "hour": 15, "min": 23 },
+			"size": "344 MB"
+		}
+	]
+}

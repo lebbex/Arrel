@@ -1,0 +1,1 @@
+Unlike the last version, you almost always clip through the floor, since these voxels are made of independant mesh faces. Other then that most of everything is the same as pre-dev-4.
