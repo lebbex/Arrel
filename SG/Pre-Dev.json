@@ -1,6 +1,12 @@
 {
 	"Versions": [
 		{
+			"name": "Hello my son",
+			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"size": "Jesus"
+		},
+
+		{
 			"name": "Indev 25",
 			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
 			"size": "Jesus"
