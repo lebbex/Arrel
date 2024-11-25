@@ -1,2 +1,1 @@
-This version of the game introduces a UI overhaul, adding the memorable play menu, with 3 menu buttons instead of the 2.
-It also adds world creation and, believe it or not, the first instance of voxel generation. These voxels however are simple cubes forming a small platform mid-air you can sometimes clip through and causing intense lag.
+This version of the game introduces a UI overhaul, adding the memorable play menu, with 3 menu buttons instead of the 2.\nIt also adds world creation and, believe it or not, the first instance of voxel generation. These voxels however are simple cubes forming a small platform mid-air you can sometimes clip through and causing intense lag.
