@@ -1,0 +1,1 @@
+This version introduced a settings UI overhaul along with some new create world settings.
