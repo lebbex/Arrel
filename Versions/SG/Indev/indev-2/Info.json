@@ -1,4 +1,9 @@
 {
 	"bytes": 383500868,
-	"download": "https://www.dropbox.com/scl/fi/830bckzkwks2umwxwj9ed/indev-2.zip?rlkey=1pd7rj7o56cl2u835opdwh574&st=850l70wa&dl=1"
+	"download": "https://www.dropbox.com/scl/fi/830bckzkwks2umwxwj9ed/indev-2.zip?rlkey=1pd7rj7o56cl2u835opdwh574&st=850l70wa&dl=1",
+	"screenshots": [
+		"PlayMenu.png",
+		"CreateMenu.png",
+		"World.png"
+	]
 }
