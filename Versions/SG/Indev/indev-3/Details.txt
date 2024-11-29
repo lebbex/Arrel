@@ -1,1 +1,1 @@
-
+This version contains a voxel platform spawning test. Along with it came some changes in the fonts and UI.
