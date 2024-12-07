@@ -1,8 +1,10 @@
 {
 	"Banner": "SnowyView.png",
-	"Launcher": "0.17",
+	"Latest": {
+		"Launcher": "0.17",
+		"VR": ""
+	},
 	"VersionChanges": {
-		"SG": "1",
-		"VR": "1"
+		"SG": 1
 	}
 }
