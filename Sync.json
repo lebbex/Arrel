@@ -6,6 +6,12 @@
 		"VR": ""
 	},
 	"Changes": {
-		"Versions": 1
+		"Versions": {
+			"Pre-Dev": 1,
+			"Indev": 1,
+			"Alpha": 1,
+			"Beta": 1,
+			"Release": 1
+		}
 	}
 }
