@@ -2,7 +2,7 @@
 	"Banner": "SnowyView.png",
 	"Latest": {
 		"Launcher": "0.17",
-		"SG": "indev-22",
-		"VR": ""
+		"SG": 1,
+		"VR": 1
 	}
 }
