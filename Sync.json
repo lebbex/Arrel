@@ -11,9 +11,8 @@
 			"Indev": 1,
 			"Alpha": 1,
 			"Beta": 1,
-			"1": 1,
-			"2": 1,
-			"3": 1
+			"ReleaseReplace": 1,
+			"ReleaseAdd": 1
 		}
 	}
 }
