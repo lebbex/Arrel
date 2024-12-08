@@ -8,10 +8,10 @@
 		"Versions": {
 			"Pre-Dev": 1,
 			"Indev": 1,
-			"Alpha": 1,
-			"Beta": 1,
-			"ReleaseReplace": 1,
-			"ReleaseAdd": 1
+			"Alpha": 0,
+			"Beta": 0,
+			"ReleaseReplace": 0,
+			"ReleaseAdd": 0
 		}
 	}
 }
