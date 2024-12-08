@@ -27,57 +27,57 @@
 		},
 		{
 			"name": "multiplayer-test v2",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2022, "month": 7, "day": 18, "hour": 3, "min": 43 },
 			"size": "61.4 MB"
 		},
 		{
 			"name": "!multiplayer-test v1",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2021, "month": 12, "day": 8, "hour": 5, "min": 59 },
 			"size": "59.3 MB"
 		},
 		{
 			"name": "pre-dev-5",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": , "month": , "day": , "hour": , "min":  },
 			"size": "70.6 MB"
 		},
 		{
 			"name": "pre-dev-4",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2021, "month": 9, "day": 7, "hour": 12, "min": 34 },
 			"size": "56.6 MB"
 		},
 		{
 			"name": "pre-dev-3",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2021, "month": 8, "day": 27, "hour": 3, "min": 21 },
 			"size": "56.4 MB"
 		},
 		{
 			"name": "pre-dev-2",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2021, "month": 8, "day": 23, "hour": 12, "min": 2 },
 			"size": "55.0 MB"
 		},
 		{
 			"name": "pre-dev-1",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2021, "month": 8, "day": 19, "hour": 4, "min": 41 },
 			"size": "52.9 MB"
 		},
 		{
 			"name": "pre-dev-4 og",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2021, "month": 9, "day": 7, "hour": 12, "min": 34 },
 			"size": "69.3 MB"
 		},
 		{
 			"name": "pre-dev-3 og",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2021, "month": 8, "day": 27, "hour": 3, "min": 21 },
 			"size": "69.0 MB"
 		},
 		{
 			"name": "pre-dev-2 og",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2021, "month": 8, "day": 23, "hour": 12, "min": 2 },
 			"size": "57.2 MB"
 		},
 		{
 			"name": "pre-dev-1 og",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2021, "month": 8, "day": 19, "hour": 4, "min": 41 },
 			"size": "52.9 MB"
 		}
 	]
