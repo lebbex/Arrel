@@ -2,42 +2,42 @@
 	"Versions": [
 		{
 			"name": "!HDRP 1 og",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2022, "month": 7, "day": 27, "hour": 13, "min": 37 },
 			"size": "126 MB"
 		},
 		{
 			"name": "HDRP 2",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2024, "month": 8, "day": 12, "hour": 12, "min": 07 },
 			"size": "128 MB"
 		},
 		{
 			"name": "HDRP 1",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2022, "month": 7, "day": 27, "hour": 13, "min": 37 },
 			"size": "127 MB"
 		},
 		{
 			"name": "URP 2",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2024, "month": 8, "day": 11, "hour": 23, "min": 42 },
 			"size": "102 MB"
 		},
 		{
 			"name": "URP 1",
-			"release": {"year": 0, "month": 0, "day": 0, "hour": 0, "min": 0 },
+			"release": {"year": 2024, "month": 8, "day": 12, "hour": 23, "min": 9 },
 			"size": "100 MB"
 		},
 		{
 			"name": "multiplayer-test v2",
-			"release": {"year": 2022, "month": 7, "day": 18, "hour": 3, "min": 43 },
+			"release": {"year": 2022, "month": 7, "day": 18, "hour": 15, "min": 43 },
 			"size": "61.4 MB"
 		},
 		{
 			"name": "!multiplayer-test v1",
-			"release": {"year": 2021, "month": 12, "day": 8, "hour": 5, "min": 59 },
+			"release": {"year": 2021, "month": 12, "day": 8, "hour": 17, "min": 59 },
 			"size": "59.3 MB"
 		},
 		{
 			"name": "pre-dev-5",
-			"release": {"year": , "month": , "day": , "hour": , "min":  },
+			"release": {"year": 2024, "month": 8 , "day": 12 , "hour": 13 , "min": 47  },
 			"size": "70.6 MB"
 		},
 		{
@@ -47,7 +47,7 @@
 		},
 		{
 			"name": "pre-dev-3",
-			"release": {"year": 2021, "month": 8, "day": 27, "hour": 3, "min": 21 },
+			"release": {"year": 2021, "month": 8, "day": 27, "hour": 15, "min": 21 },
 			"size": "56.4 MB"
 		},
 		{
@@ -57,17 +57,17 @@
 		},
 		{
 			"name": "pre-dev-1",
-			"release": {"year": 2021, "month": 8, "day": 19, "hour": 4, "min": 41 },
+			"release": {"year": 2021, "month": 8, "day": 19, "hour": 16, "min": 41 },
 			"size": "52.9 MB"
 		},
 		{
 			"name": "pre-dev-4 og",
-			"release": {"year": 2021, "month": 9, "day": 7, "hour": 12, "min": 34 },
+			"release": {"year": 2021, "month": 9, "day": 7, "hour": 24, "min": 34 },
 			"size": "69.3 MB"
 		},
 		{
 			"name": "pre-dev-3 og",
-			"release": {"year": 2021, "month": 8, "day": 27, "hour": 3, "min": 21 },
+			"release": {"year": 2021, "month": 8, "day": 27, "hour": 15, "min": 21 },
 			"size": "69.0 MB"
 		},
 		{
@@ -77,7 +77,7 @@
 		},
 		{
 			"name": "pre-dev-1 og",
-			"release": {"year": 2021, "month": 8, "day": 19, "hour": 4, "min": 41 },
+			"release": {"year": 2021, "month": 8, "day": 19, "hour": 16, "min": 41 },
 			"size": "52.9 MB"
 		}
 	]
