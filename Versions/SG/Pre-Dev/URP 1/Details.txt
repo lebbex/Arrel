@@ -1,1 +1,1 @@
-This version moved the project from the standard Unity to Unity URP, a slightly more graphically advanced version.
+This version moved the project from the standard Unity to Unity URP, a slightly more graphically advanced version.\nThis version stayed unreleased for 3 years and was compiled after indev-22 during the initial production of the launcher.
