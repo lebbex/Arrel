@@ -1,1 +1,1 @@
-This version fixed a bug on the worlds menu as well as a minimal tint change.
+This version fixed a bug on the worlds menu as well as a minimal tint change.\nThis version stayed unreleased for 3 years and was compiled after indev-22 during the initial production of the launcher.
