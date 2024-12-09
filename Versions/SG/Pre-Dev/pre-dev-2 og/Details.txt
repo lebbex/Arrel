@@ -1,0 +1,1 @@
+This version introduced an iconic ambiant forest noise in the debug level, textures, fov scaling and a scope feature as well as a primitive settings page. It also introduces post processing, however only in the next version would this new feature be made heavy use of.
