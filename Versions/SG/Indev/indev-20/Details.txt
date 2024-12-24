@@ -1,1 +1,1 @@
-This version overhauls the flight system along with the normal movement system.
+This version overhauls the entire movment system.
