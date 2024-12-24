@@ -1,1 +1,1 @@
-This version introduces an F7 camera view mode where you can see the newly implemented player placeholder.
+This version introduces an F7 camera view mode where you can see the newly implemented player placeholder along with a sign in page with a user identifier for an upcoming multiplayer test.
