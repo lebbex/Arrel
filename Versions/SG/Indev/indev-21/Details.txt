@@ -1,0 +1,1 @@
+Fixes deadly bug from the previous version.
