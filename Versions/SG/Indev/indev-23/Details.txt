@@ -1,0 +1,1 @@
+This version changes up the default texture of the terrain and improves ;) the building. First version to be released after the launcher release and this version has been untoched for 4 months.\nPackaged by Carlos.
