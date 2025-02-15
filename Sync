@@ -1,0 +1,13 @@
+{
+	"Banner": "Banners/MountainSnow",
+	"LatestVersion": {
+		"Launcher": "1.01.0",
+		"SG": "indev-23"
+	},
+	"Revisions": {
+		"VersionList": {
+			"Pre-Dev": 1,
+			"Indev": 2
+		}
+	}
+}
