@@ -2,9 +2,8 @@
 	"bytes": 424878715,
 	"download": "https://www.dropbox.com/scl/fi/p3e51gmnmknptsvfow5cj/indev-5.zip?rlkey=xp1g7q9on5ef8pdte96fc3782&st=hshvdc6p&dl=1",
 	"screenshots": [
-		"Menu.png",
-		"ControlsSettings.png",
-		"QualitySettings.png"
-	],
-	"revision": 0
+		"Menu",
+		"Controls",
+		"Quality"
+	]
 }
