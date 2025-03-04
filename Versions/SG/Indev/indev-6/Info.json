@@ -2,9 +2,8 @@
 	"bytes": 433132076,
 	"download": "https://www.dropbox.com/scl/fi/162j0f9aqmopkcl31qseh/indev-6.zip?rlkey=vcurkqeosusyocixb0qcql7qa&st=mwx7tvx4&dl=1",
 	"screenshots": [
-		"Menu.png",
-		"CreateMenu.png",
-		"Loading.png"
-	],
-	"revision": 0
+		"Menu",
+		"CreateMenu",
+		"Loading"
+	]
 }
