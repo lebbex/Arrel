@@ -2,9 +2,8 @@
 	"bytes": 22868699,
 	"download": "https://www.dropbox.com/scl/fi/9n9ocyphw9rezr40ar28r/pre-dev-3.zip?rlkey=czetm5gdf2yreew3sc7jr42m5&st=k7ku0d7s&dl=1",
 	"screenshots": [
-		"settings.png",
-		"debug1.png",
-		"debug2.png"
-	],
-	"revision": 0
+		"Settings",
+		"Debug1",
+		"Debug2"
+	]
 }
