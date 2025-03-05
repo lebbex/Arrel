@@ -6,8 +6,10 @@
 	},
 	"Revisions": {
 		"VersionList": {
-			"Pre-Dev": 1,
-			"Indev": 2
+			"Pre-Dev": 0,
+			"Indev": 0,
+			"Alpha": 0,
+			"Beta": 0
 		}
 	}
 }
