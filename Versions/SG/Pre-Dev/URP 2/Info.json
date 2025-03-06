@@ -2,9 +2,8 @@
 	"bytes": 51758274,
 	"download": "https://www.dropbox.com/scl/fi/chgj91ofrdv9hjhawl59t/URP-2.zip?rlkey=lvqujivsnsw948eg6q9l9f7i3&st=0iw8gk6k&dl=1",
 		"screenshots": [
-		"CreateMenu.png",
-		"MainMenuURP.png",
-		"SettingsURP2.png"
-	],
-	"revision": 0
+		"CreateMenu",
+		"MainMenuURP",
+		"SettingsURP2"
+	]
 }
