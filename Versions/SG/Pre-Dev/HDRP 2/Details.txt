@@ -1,1 +1,2 @@
-This version introduced chunk generation, represented by floating cubes.\nThe sound when you fall out of the world has been swapped then the project was recompiled for copyright reasons.
+This version introduced chunk generation, represented by floating cubes.
+The sound when you fall out of the world has been swapped then the project was recompiled for copyright reasons.

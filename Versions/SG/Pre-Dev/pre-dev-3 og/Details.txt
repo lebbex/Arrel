@@ -1,1 +1,3 @@
-This version added... an escape menu. Revolutionary invention, never done before, allowing you to leave the game once you have entered. Or better yet, change your settings which now have been improved to have an audio category.\nA health/death/respawn system has been added, along with heartbeat sounds and a lowpass filter when hurt, accompagnied by a red screen tint. Camera bobbing has also been added.\nIntroduction of the debug level music as well.
+This version added... an escape menu. Revolutionary invention, never done before, allowing you to leave the game once you have entered. Or better yet, change your settings which now have been improved to have an audio category.
+A health/death/respawn system has been added, along with heartbeat sounds and a lowpass filter when hurt, accompagnied by a red screen tint. Camera bobbing has also been added.
+Introduction of the debug level music as well.

@@ -1,1 +1,2 @@
-Unlike the last version, you almost always clip through the floor, since these voxels are made of independant mesh faces. Other then that most of everything is the same as pre-dev-4.\nThis version stayed unreleased for 3 years and was compiled after indev-22 during the initial production of the launcher.
+Unlike the last version, you almost always clip through the floor, since these voxels are made of independant mesh faces. Other then that most of everything is the same as pre-dev-4.
+This version stayed unreleased for 3 years and was compiled after indev-22 during the initial production of the launcher.
