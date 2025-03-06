@@ -1,1 +1,9 @@
-
+{
+	"Versions": [
+		{
+			"name": "!alpha1",
+			"release": {"year": 2025, "month": 3, "day": 1, "hour": 0, "min": 0 },
+			"size": "? GB"
+		}
+	]
+}
