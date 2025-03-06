@@ -2,8 +2,7 @@
 	"bytes": 21088107,
 	"download": "https://www.dropbox.com/scl/fi/saitljy6bhzc222x9e74y/pre-dev-1-og.zip?rlkey=263olo775l1xie9xfwjyk0txi&st=wiwt3tb5&dl=1",
 	"screenshots": [
-		"DebugPreAlpha1.png",
-		"DebugPreAlpha1second.png"
-	],
-	"revision": 0
+		"DebugPreAlpha1",
+		"DebugPreAlpha1second"
+	]
 }

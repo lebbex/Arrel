@@ -2,9 +2,9 @@
 	"bytes": 36161305,	
 	"download": "https://www.dropbox.com/scl/fi/ityll9jrbfve61rx5uruy/pre-dev-4-og.zip?rlkey=a9rxavxxs08rzhed3nhq6wtk4&st=7xtjwdvz&dl=1",
 	"screenshots": [
-		"menu.png",
-		"create.png",
-		"worlds.png"
-	],
-	"revision": 0
+		"menu",
+		"create",
+		"indev4ground",
+		"worlds"
+	]
 }
