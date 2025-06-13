@@ -2,13 +2,13 @@
 	"Banner": "Banners/MountainSnow",
 	"LatestVersion": {
 		"Launcher": "1.01.0",
-		"SG": "indev-23"
+		"SG": "alpha-1.0"
 	},
 	"Revisions": {
 		"VersionList": {
 			"Pre-Dev": 0,
 			"Indev": 0,
-			"Alpha": 0,
+			"Alpha": 1,
 			"Beta": 0,
 			"1": 0,
 			"2": 0
