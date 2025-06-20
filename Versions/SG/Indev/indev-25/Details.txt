@@ -1,0 +1,1 @@
+We tried to minimize the bug from earlier versions where the screen would resize, last indev verion.

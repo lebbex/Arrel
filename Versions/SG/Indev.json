@@ -1,6 +1,16 @@
 {
 	"Versions": [
 		{
+			"name": "indev-25",
+			"release": {"year": 2025, "month": 3, "day": 8, "hour": 15, "min": 10 },
+			"size": "1.51 GB"
+		},
+		{
+			"name": "indev-24",
+			"release": {"year": 2025, "month": 1, "day": 31, "hour": 19, "min": 28 },
+			"size": "1.51 GB"
+		},
+		{
 			"name": "indev-23",
 			"release": {"year": 2025, "month": 1, "day": 8, "hour": 6, "min": 49 },
 			"size": "1.45 GB"

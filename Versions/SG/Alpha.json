@@ -1,9 +1,9 @@
 {
 	"Versions": [
 		{
-			"name": "alpha-1",
-			"release": {"year": 2026, "month": 3, "day": 1, "hour": 1, "min": 1 },
-			"size": "? GB"
+			"name": "alpha-1.0",
+			"release": {"year": 2025, "month": 6, "day": 13, "hour": 1, "min": 54 },
+			"size": "787 MB"
 		}
 	]
 }
