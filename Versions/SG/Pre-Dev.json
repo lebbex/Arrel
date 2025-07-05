@@ -1,84 +1,48 @@
-{
-	"Versions": [
-		{
-			"name": "!HDRP 1 og",
-			"release": {"year": 2022, "month": 7, "day": 27, "hour": 13, "min": 37 },
-			"size": "126 MB"
-		},
-		{
-			"name": "HDRP 2",
-			"release": {"year": 2022, "month": 7, "day": 27, "hour": 13, "min": 37 },
-			"size": "128 MB"
-		},
-		{
-			"name": "HDRP 1",
-			"release": {"year": 2022, "month": 7, "day": 27, "hour": 13, "min": 37 },
-			"size": "127 MB"
-		},
-		{
-			"name": "URP 2",
-			"release": {"year": 2024, "month": 8, "day": 11, "hour": 23, "min": 42 },
-			"size": "102 MB"
-		},
-		{
-			"name": "URP 1",
-			"release": {"year": 2024, "month": 8, "day": 12, "hour": 23, "min": 9 },
-			"size": "100 MB"
-		},
-		{
-			"name": "multiplayer-test v2",
-			"release": {"year": 2022, "month": 7, "day": 18, "hour": 15, "min": 43 },
-			"size": "61.4 MB"
-		},
-		{
-			"name": "!multiplayer-test v1",
-			"release": {"year": 2021, "month": 12, "day": 8, "hour": 17, "min": 59 },
-			"size": "59.3 MB"
-		},
-		{
-			"name": "pre-dev-5",
-			"release": {"year": 2024, "month": 8 , "day": 12 , "hour": 13 , "min": 47  },
-			"size": "70.6 MB"
-		},
-		{
-			"name": "pre-dev-4",
-			"release": {"year": 2021, "month": 9, "day": 7, "hour": 12, "min": 34 },
-			"size": "56.6 MB"
-		},
-		{
-			"name": "pre-dev-3",
-			"release": {"year": 2021, "month": 8, "day": 27, "hour": 15, "min": 21 },
-			"size": "56.4 MB"
-		},
-		{
-			"name": "pre-dev-2",
-			"release": {"year": 2021, "month": 8, "day": 23, "hour": 12, "min": 2 },
-			"size": "55.0 MB"
-		},
-		{
-			"name": "pre-dev-1",
-			"release": {"year": 2021, "month": 8, "day": 19, "hour": 16, "min": 41 },
-			"size": "52.9 MB"
-		},
-		{
-			"name": "pre-dev-4 og",
-			"release": {"year": 2021, "month": 9, "day": 7, "hour": 0, "min": 34 },
-			"size": "69.3 MB"
-		},
-		{
-			"name": "pre-dev-3 og",
-			"release": {"year": 2021, "month": 8, "day": 27, "hour": 15, "min": 21 },
-			"size": "69.0 MB"
-		},
-		{
-			"name": "pre-dev-2 og",
-			"release": {"year": 2021, "month": 8, "day": 23, "hour": 12, "min": 2 },
-			"size": "57.2 MB"
-		},
-		{
-			"name": "pre-dev-1 og",
-			"release": {"year": 2021, "month": 8, "day": 19, "hour": 16, "min": 41 },
-			"size": "52.9 MB"
-		}
-	]
-}
+HDRP 1 og
+2207271337
+126MB
+HDRP 2
+2207271337
+128MB
+HDRP 1
+2207271337
+127MB
+URP 2
+2408112342
+102MB
+URP 1
+2408122309
+100MB
+multiplayer-test v2
+2207181543
+61.4MB
+!multiplayer-test v1
+2112081759
+59.3MB
+pre-dev-5
+2408121347
+70.6MB
+pre-dev-4
+2109071234
+56.6MB
+pre-dev-3
+2108271521
+56.4MB
+pre-dev-2
+2108231202
+55.0MB
+pre-dev-1
+2108191641
+52.9MB
+pre-dev-4 og
+2109070034
+69.3MB
+pre-dev-3 og
+2108271521
+69.0MB
+pre-dev-2 og
+2108231202
+67.2MB
+pre-dev-1 og
+2108191641
+52.9MB

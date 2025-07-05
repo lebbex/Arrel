@@ -1,14 +1,6 @@
-{
-	"Versions": [
-		{
-			"name": "alpha-1.1",
-			"release": {"year": 2025, "month": 7, "day": 1, "hour": 6, "min": 20 },
-			"size": "614 MB"
-		},
-		{
-			"name": "alpha-1.0",
-			"release": {"year": 2025, "month": 6, "day": 13, "hour": 1, "min": 54 },
-			"size": "787 MB"
-		}
-	]
-}
+1.1
+2507010620
+614MB
+1.0
+2506130154
+787MB
