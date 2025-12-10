@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>YouTube Player Wrapper</title>
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        background-color: black;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+      #player {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="player"></div>
+
+    <script>
+      let player;
+      let currentVideoId = null;
+      let apiLoaded = false;
+
+      // volume polling state
+      let lastVolume = null;
+      let suppressUntil = 0; // timestamp until which we ignore changes
+
+      // playback state
+      let ended = false; // remember if the video has ended
+
+      function onYouTubeIframeAPIReady() {
+        apiLoaded = true;
+        console.log("LoadVideo");
+
+        // start polling every 200ms
+        setInterval(() => {
+          if (!player) return;
+
+          const now = Date.now();
+          const vol = player.getVolume();
+
+          if (vol !== lastVolume) {
+            // only send if we are not suppressing
+            if (now >= suppressUntil) {
+              sendMessage({ volume: vol });
+            }
+            lastVolume = vol;
+          }
+        }, 200);
+
+        // force max resolution every 2s
+        setInterval(() => {
+          if (player && player.getPlayerState() === YT.PlayerState.PLAYING) {
+            player.setPlaybackQuality("highres"); // or "hd1080" if you only want 1080p
+          }
+        }, 2000);
+      }
+
+      function loadVideo(videoId) {
+        if (!apiLoaded) {
+          console.log("LoadVideo");
+          return;
+        }
+
+        currentVideoId = videoId;
+        ended = false; // reset whenever we load a new video
+
+        if (player) {
+          player.loadVideoById(videoId);
+        } else {
+          player = new YT.Player("player", {
+            videoId: videoId,
+            playerVars: {
+              autoplay: 0,
+              controls: 0,
+              rel: 0,
+              modestbranding: 1,
+              enablejsapi: 1
+            },
+            events: {
+              onReady: onPlayerReady,
+              onStateChange: onPlayerStateChange
+            }
+          });
+        }
+      }
+
+      // ===== Player Events =====
+      function onPlayerReady() {
+        sendMetadata();
+        lastVolume = player.getVolume();
+      }
+
+      function onPlayerStateChange(event) {
+        if (!player) return;
+
+        const state = event.data;
+
+        if (state === YT.PlayerState.BUFFERING) {
+          console.log("VideoBuffering");
+        }
+
+        if (state === YT.PlayerState.PLAYING) {
+          console.log("VideoPlaying");
+          ended = false; // reset ended state
+        }
+
+        if (state === YT.PlayerState.ENDED) {
+          console.log("VideoEnded");
+          ended = true; // lock progress to duration
+        }
+
+        const isPaused = state === YT.PlayerState.PAUSED || state === YT.PlayerState.ENDED;
+
+        let progress;
+        if (ended) {
+          progress = player.getDuration(); // lock at full duration
+        } else {
+          progress = player ? player.getCurrentTime() : 0;
+        }
+
+        sendMessage({ paused: isPaused, progress: progress });
+      }
+
+      // ===== Control functions =====
+      function playVideo() { if (player) player.playVideo(); }
+      function pauseVideo() { if (player) player.pauseVideo(); }
+
+      function setVolume(v) {
+        if (player) {
+          player.setVolume(v);
+          // suppress polling messages for 500ms after setting volume ourselves
+          suppressUntil = Date.now() + 500;
+          lastVolume = v; // update immediately so poller doesn’t resend old value
+        }
+      }
+
+      function getVolume() { sendMessage({ volume: player ? player.getVolume() : 0 }); }
+      function getDuration() { sendMessage({ duration: player ? player.getDuration() : 0 }); }
+      function setProgress(sec) { if (player) player.seekTo(sec, true); }
+
+      // ===== Metadata collection =====
+      function sendMetadata() {
+        player.setPlaybackQuality('highres');
+        if (!player || !currentVideoId) return;
+
+        const duration = player.getDuration();
+        const videoData = player.getVideoData();
+
+        const payload = {
+          title: videoData.title || "",
+          duration: duration,
+          progress: player ? player.getCurrentTime() : 0
+        };
+
+        sendMessage(payload);
+      }
+
+      // ===== Communication back to UE =====
+      function sendMessage(payload) {
+        console.log(JSON.stringify(payload));
+      }
+    </script>
+
+    <script src="https://www.youtube.com/iframe_api"></script>
+  </body>
+</html>
